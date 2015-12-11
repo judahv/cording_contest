@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/*
+========== TABLE of CONTENTS ==========
+
+1:common
+
+========== TABLE of CONTENTS ==========
+
+
+/* ---------- 1:common  ---------- */
+
+#header nav,
+#search{
+	display: none;
+}
+
+/* ---------- /1:common  ---------- */
+
